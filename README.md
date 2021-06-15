@@ -1,7 +1,7 @@
 # pygecros
   A pythonic version of GECROS
   
-  This is a python interface for the model GECROS (Yin, 2005). Two flavors are in development. A f2py for the integration of all GECROS functions, and a pure python version. Both have been tested and validated against original model. New modules and modifications are under development for the pyhton flavor, among them: 1) An improved phenology model for soybean; 2) An improved soil model component includding a multilayered soil.
+  This is a python interface for the model GECROS (Yin, 2005). Two flavors are in development, a f2py for the integration of all GECROS functions, and a pure python version. Both have been tested and validated against the original FST model. New modules and modifications are under development for the pyhton flavor, among them: 1) An improved phenology model for soybean; 2) An improved soil model component includding a multilayered soil.
   
   
 Crop Systems Dynamics: An Ecophysiological Simulation Model for Genotype-by-Environment Interactions
