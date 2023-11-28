@@ -9,7 +9,7 @@
 *                      Crop and Weed Ecology group                    *
 *                Wageningen University & Research Centre              *
 *               PO Box 430, 6700 AK Wageningen, Netherlands           *
-*               Pythonized by agb32@cornell.edu 2008                  *
+*               Pythonized by Andres Berger agb32@cornell.edu 2008                  *
 *               1126 Bradfield Hall, Cornell University               *
 *                           Ithaca NY 14850                           *
 ***********************************************************************"""
